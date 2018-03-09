@@ -1,2 +1,3 @@
 this is developer code. File updatred in dev branch. Changin the file in local
 this is developer code. File updatred in dev branch. Chnaged in master remote
+Done changes in master remote for stash.
